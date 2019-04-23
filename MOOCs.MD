@@ -1,4 +1,4 @@
-## CERTIFICATE - WORKSHOP
+## CERTIFICATE - WORKSHOP - TALKS
 
 ######  QA Ltd on 31 August 2018 [Bristol]
 Architecting on AWS
@@ -10,6 +10,16 @@ Among Top 50 international students for a BCG workshop on digital transformation
 ###### Paris Talent Summit 2016
 Selected among the Europe’s most ambitious junior talents
 
+##### TALKS
+
+###### Imperial College 2019
+#10year(DATA)challenge
+
+###### DYSON DCC18 2018
+Splunk your own data
+
+###### DOMAIN DRIVEN DESIGN Hamburg 2016
+CQRS ES Intro
 
 
 ## MOOCS 
