@@ -1,7 +1,15 @@
-## CERTIFICATE
+## CERTIFICATE - WORKSHOP
 
 ######  QA Ltd on 31 August 2018 [Bristol]
 Architecting on AWS
+
+###### BCG UnlimITed 2016
+Among Top 50 international students for a BCG workshop on digital transformations.
+
+###### Berlin Talent Summit 2017
+###### Paris Talent Summit 2016
+Selected among the Europe’s most ambitious junior talents
+
 
 
 ## MOOCS 
