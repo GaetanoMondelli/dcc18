@@ -1,9 +1,12 @@
 ## CERTIFICATE - WORKSHOP - TALKS
 
+######  IDEO Design Thinking 2020
+Storytelling for Influence
+
 ######  QA Ltd on 31 August 2018 [Bristol]
 Architecting on AWS
 
-###### BCG UnlimITed 2016
+###### BCG UnlimITed 2016 [Paris]
 Among Top 50 international students for a BCG workshop on digital transformations.
 
 ###### Berlin Talent Summit 2017
